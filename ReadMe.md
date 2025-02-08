@@ -1,7 +1,7 @@
 # 💡 Introdução
 
 ## Objetivo ##
-Este repositório contém uma estrutura de arquivos `hcl` para o provisionamento de infraestrutura na AWS. Esta arquitetura é composta por EKS, VPC e Security Groups organizados em módulos distintos para facilitar a manutenção e escalabilidade.
+Este repositório contém uma estrutura de arquivos `hcl` para o provisionamento de infraestrutura na AWS. Esta arquitetura é composta po um Cluster ElastiCache organizado em módulo para facilitar a manutenção e escalabilidade.
 
 ## 📦 Estrutura ##
 
